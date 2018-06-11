@@ -1,0 +1,10 @@
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\bin\Debug\Entidades.dll
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\obj\Debug\Entidades.dll
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\obj\Debug\Entidades.pdb
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\bin\Debug\Entidades.dll
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\bin\Debug\Entidades.pdb
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\obj\Debug\Entidades.dll
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Entidades\obj\Debug\Entidades.pdb

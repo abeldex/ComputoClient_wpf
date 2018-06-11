@@ -1,0 +1,17 @@
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\Datos.dll
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\Datos.pdb
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\Entidades.dll
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\MySql.Data.dll
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\Entidades.pdb
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\MySql.Data.xml
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\obj\Debug\Datos.dll
+C:\Users\ComputoAdmin\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\obj\Debug\Datos.pdb
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\Datos.dll
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\Datos.pdb
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\Entidades.dll
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\Entidades.pdb
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\bin\Debug\MySql.Data.xml
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\obj\Debug\Datos.dll
+E:\Users\Computo1\Documents\Proyectos Visual Studio\ComputoClient_wpf\Datos\obj\Debug\Datos.pdb
